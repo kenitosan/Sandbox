@@ -38,6 +38,49 @@ Initialized empty Git repository in /Users/root0/worksapce/NODE/X_PROJECT_BOOKS/
 # git status
 
 
-create .gitignore
-# git add .....
+(....create .gitignore ....)
+# git add .
+
+# git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   .gitignore
+	new file:   N0
+	new file:   package-lock.json
+	new file:   package.json
+	new file:   public/add_book.html
+	new file:   public/add_store.html
+	new file:   public/book_edit.html
+	new file:   public/css/styles.css
+	new file:   public/index.html
+	new file:   server/models/books.js
+	new file:   server/models/stores.js
+	new file:   server/server.js
+
+# git commit -m 'nodejs_book_1st_proj'
+[master (root-commit) 74a548f] nodejs_book_1st_proj
+ 12 files changed, 1543 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 N0
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 public/add_book.html
+ create mode 100644 public/add_store.html
+ create mode 100644 public/book_edit.html
+ create mode 100644 public/css/styles.css
+ create mode 100644 public/index.html
+ create mode 100644 server/models/books.js
+ create mode 100644 server/models/stores.js
+ create mode 100644 server/server.js
+
+# git status
+On branch master
+nothing to commit, working tree clean
+
+
 
