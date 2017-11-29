@@ -1,0 +1,43 @@
+
+# npm install express express-handlebars body-parser mongoose@4.10.8 --save
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN x_project_books@1.0.0 No description
+npm WARN x_project_books@1.0.0 No repository field.
+
++ mongoose@4.10.8
++ express@4.16.2
++ body-parser@1.18.2
+added 79 packages in 10.683s
+
++ express-handlebars@3.0.0
+added 42 packages in 5.147s
+
+==============================================================
+
+Get the final code of this section
+Section 10, Lecture 86
+You can download the final code for this section from Udemy.
+
+Or you can get it from Github :)
+
+Here is the link:
+
+https://github.com/ferlobo1985/node_js/tree/x_project_books
+
+Notice: if you go to branches on Github you get access to all the projects for this course.
+
+Resources for this lecture
+ x_project_books.zip
+
+==============================================================
+==============================================================
+
+# git init
+Initialized empty Git repository in /Users/root0/worksapce/NODE/X_PROJECT_BOOKS/.git/
+
+# git status
+
+
+create .gitignore
+# git add .....
+
